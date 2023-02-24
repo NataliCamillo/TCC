@@ -1,5 +1,5 @@
 # TCC
-Tema:MyPet :dog:
+Tema:MyPet :dog:cat:
 -
 
 
@@ -7,7 +7,7 @@ O projeto consiste em um sistema de adoção de animais, nele será possível an
 
 Ferramentas que serão utilizadas:computer:
 - HTML/CSS/JavaScript
-- Mysql
+-
 -
 
 
