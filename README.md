@@ -1,5 +1,5 @@
 # TCC
-Tema:MyPet :dog:cat:
+Tema:MyPet :dog: :cat:
 -
 
 
